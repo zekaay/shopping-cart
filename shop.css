@@ -1,0 +1,82 @@
+.offer{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.cart{
+  width:200px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  border: none; 
+  align-self:center;
+  position: relative;
+
+}
+.inner-box{
+  align-content: center;
+}
+.shipping{
+  background-color: black;
+  align-content: :right;
+  color:white; 
+  float: right;
+}
+.btn{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  font-weight:bold;
+  background-color:grey;  
+}
+.thumbnail{
+    align-content: center;
+    border: none;
+}
+.price{
+  text-align: center;
+}
+h3{
+  text-align: center;
+
+}
+.caption{
+  align-content: center;
+}
+p{
+  font-weight: bold;
+}
+label{
+  background-color: black;
+  float: right;
+  color: white;
+}
+
+.form-group{
+  
+  margin:10px;
+  width:150px; 
+  }
+  select{
+    width: 90px;
+  }
+
+.top-right{
+   float: right;
+   position: absolute;
+  top:0px;
+  right: 15px;
+  color: white;
+  background-color: black;
+
+ 
+  background-color: black;
+}
+img{
+  
+}
+.yellow{
+  color: yellow;
+  font-weight: bolder;
+  text-align: center;
+}
